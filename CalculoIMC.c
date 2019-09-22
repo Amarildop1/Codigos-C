@@ -19,5 +19,5 @@ int main(void){
 		}else{ 
 			printf("Você não está na faixa de peso ideal!\n\n"); 
 		}
-return 0;
+	return 0;
 }
