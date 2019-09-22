@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-
 /**
 *Calcula um aumento de salário entre 10% e 20%
 *de acordo com alguns critérios.
