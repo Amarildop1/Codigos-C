@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* ALGORITMO PARA VERIFICAR SE um ALUNO ESTÁ APROVADO, 
+* ALGORITMO PARA VERIFICAR SE UM ALUNO ESTÁ APROVADO, 
 * REPROVADO OU EM RECUPERAÇÃO.
 */
 int main(void){
