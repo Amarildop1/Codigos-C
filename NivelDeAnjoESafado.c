@@ -27,10 +27,7 @@ void wesleySafadao(int dia, int mes, int ano){
 
 	printf("\nSafadeza: %.2i%% \n", safadeza);
 	printf("Anjo: %.2i%% \n\n", anjo);
-
 }
-
-
 /*
 	Implemente a função wesley_safadao que recebe uma data de nascimento (dia, mes e ano)
 	e calcula a porcentagem de anjo e a porcentagem de safado de uma pessoa que nasceu na data de entrada.
