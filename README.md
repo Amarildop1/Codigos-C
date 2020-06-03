@@ -1,2 +1,2 @@
 ## Codigos-C
-Códigos escritos em Linguagem C
+Exercícios escritos em Linguagem C
